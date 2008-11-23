@@ -1,0 +1,5 @@
+Revision history for Perl module DNS::WorldWideDns
+
+0.0101 Sun Nov 23 14:15:00 2008
+    - Initial version supporting basic CRUD for the WorldWideDNS.net site.
+
